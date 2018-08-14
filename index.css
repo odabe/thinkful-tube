@@ -1,7 +1,6 @@
 *{
   box-sizing: border-box;
 }
-
 header{
   background-color: hsla(340, 91%, 50%, 0.267);
   color: white;
@@ -29,18 +28,14 @@ button{
   padding: 12px;
   font-family: 'Karla', sans-serif;
   font-size: 15px;
-
 }
-
 input{
   border-radius: 4px;
   padding: 12px;
 }
-
 h1 h2{
   font-family: 'Oswald', sans-serif;
 }
-
 .js-search-results{
  margin-left: auto;
  margin-right: auto;
@@ -49,15 +44,11 @@ h1 h2{
   background-color: white;
   color: lightseagreen
 }
-
 .pics{
   border: 1px solid;
 }
-
 a:hover{
 color: orange;
 }
-
 a{
   color: mediumvioletred;
-}
